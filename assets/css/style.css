@@ -179,3 +179,7 @@ body {
   .secondary-border {
     border-color: #39a6b2;
   }
+
+  .trainers {
+    text-align: center;
+  }
